@@ -25,6 +25,7 @@ export default function Editor({ currentNote, updateNote }) {
                 minEditorHeight={80}
                 heightUnits="vh"
             />
+            <h6 className="myName">Designed By Dulanjaya Sandaruwan</h6>
         </section>
     )
 }

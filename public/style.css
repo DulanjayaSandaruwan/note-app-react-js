@@ -197,3 +197,7 @@ button:focus {
     top: -7px;
     left: -2px
 } 
+
+.myName {
+    text-align:center;
+}
